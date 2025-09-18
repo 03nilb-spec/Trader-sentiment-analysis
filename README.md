@@ -21,7 +21,7 @@ This project explores the relationship between market sentiment (Fear vs Greed) 
 - **Trade sizes** comparison on fearful vs greedy market moods
 - Optional: Analysis of **Long vs Short** behavior on sentiment days
 
-**Tools and Libraries**
+***Tools and Libraries***
 - `pandas` for data manipulation
 - `matplotlib` and `seaborn` for data visualization
 - Jupyter notebook
